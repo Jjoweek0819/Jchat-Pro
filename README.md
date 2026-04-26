@@ -29,7 +29,7 @@ Jchat-Pro is a simple multi-room chat application built with Python. It allows u
 ### 🚀 Quick Start
 1. **Install dependencies:** `pip install flask-socketio pyqt6 pyaudio`
 2. **Configure IP:** Open the client source files and replace the default IP with your **Server's IP address** (VPN or Public IP).
-3. **Run the Servers:** Launch `server.py` and `voice_server.py`.
+3. **Run the Servers:** > **Note:** `server.py` and `voice_server.py` only need to be running on the **Server side**.
 4. **Run the Client:** Launch `client.py` and start chatting!
 
 ### 👥 Contributors
