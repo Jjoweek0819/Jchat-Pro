@@ -12,7 +12,7 @@ except ImportError:
     HAS_MULTIMEDIA = False
 from datetime import datetime
 
-SERVER_IP  = "26.35.83.211"
+SERVER_IP  = "Server_ip"
 VOICE_PORT = 5006
 
 def _find_svg_path() -> str:
