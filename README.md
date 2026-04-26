@@ -1,6 +1,6 @@
-# Jchat-Pro
+# Jchat-Basic
 
-Jchat-Pro is a simple multi-room chat application built with Python. It allows users to chat in different rooms and features a basic voice intercom function.
+Jchat-Basic is a simple multi-room chat application built with Python. It allows users to chat in different rooms and features a basic voice intercom function.
 
 ### 🌐 Connection Requirements
 > **Important:** This application requires a direct network connection between the client and server.
